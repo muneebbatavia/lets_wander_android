@@ -14,9 +14,9 @@ Let's Wander lets users discover landmarks through an interactive map. As the us
 
 - **Interactive map with multiple pinned landmarks** using the Google Maps API
 - **Geofence-triggered narration** — automatically detects when a user enters a landmark's radius and plays an audio description via text-to-speech
+- **Manual pin details on tap** — tapping a landmark pin directly shows its name, location, and description on demand
 - **Location accuracy tuning** — geofence logic refined to improve trigger accuracy
 - **Admin-managed content** — landmark data (location, description, audio) is managed through a companion admin app rather than hardcoded
-- **Manual pin details on tap** — tapping a landmark pin directly shows its name, location, and description on demand
 
 ## 🛠️ Tech Stack
 
